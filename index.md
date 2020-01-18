@@ -65,7 +65,7 @@ Previous experiences...
     {[paper]() & [GitHub]()}
 
 * **Latent variable modelling for readmission prediction** [PGMs] <br/>
-    This project examined whether latent variable modelling could help discover a low dimensional latent space that improves readmission classification. <br/>
+    This project examined whether latent variable modelling could help discover low dimensional latent spaces to improve readmission classification. <br/>
     {[GitHub]()}
 
 * **BayesNet Toolbox** [PGMs] <br/>
@@ -80,7 +80,7 @@ Previous experiences...
     {[slides](files/BME_Final_Pitch.pdf)}
 
 * **WaterMinder** [DataViz] <br/>
-    Call of Data Hackathon {[website]()}
+    Call of Data Smart Cities Hackathon {[website]()}
 
 * **GoSolar** <br/>
     Microsoft AI Challenge {[slides](files/Microsoft_AI_SlideDeck.pdf)}
