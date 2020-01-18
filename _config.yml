@@ -1,11 +1,11 @@
 title: Shagun Gupta
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "http://shagungupta.net"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id: UA-156492622-1
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
