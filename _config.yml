@@ -1,0 +1,30 @@
+title: Shagun Gupta
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ # - name: "About"
+ #   link: "/researcher"
+ - name: "Github"
+   link: "https://github.com/shagunn"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/shagunxgupta/"
+ - name: "Email"
+   link: "mailto:shagun.gupta@mail.utoronto.ca"
+
+
+ # - name: "Contact"
+ #   link: "contact"
