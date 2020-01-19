@@ -75,8 +75,8 @@ Previous experiences...
     <br/>
 
 ### Other
-* **SmoothFlow**, Biomedical Engineering Capstone Design <br/>
-    Designed and prototyped a novel device to clear occuluded enteral feeding tubes; performed 50+ hours of clinical observations at the University Health Network hospitals and SickKids to identify clinical needs. <br/>
+* **SmoothFlow, Biomedical Engineering Capstone Design** <br/>
+    Designed and prototyped a novel device to clear occuluded enteral feeding tubes after performing 50+ hours of clinical observations at the University Health Network and SickKids hospitals to identify clinical needs. <br/>
     {[slides](files/BME_Final_Pitch.pdf)}
 
 * **WaterMinder** [DataViz] <br/>
