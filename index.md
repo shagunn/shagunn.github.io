@@ -24,7 +24,7 @@ Previous experiences...
 ## Publications & Talks
 
 1. **Evaluation of Machine Learning Algorithms for Predicting Readmission after Acute Myocardial Infarction Using Routinely Collected Clinical Data**.<br/>
-    Shagun Gupta, Dennis Ko, Paymon Azizi et al. _Canadian Journal of Cardiology_, 2019. {[ICES press](https://twitter.com/ICESOntario/status/1192879858940026880) / [journal link](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583) / [pdf](files/CJC_paper.pdf)}
+    Shagun Gupta, Dennis Ko, Paymon Azizi et al. _Canadian Journal of Cardiology_, 2019. {[ICES press](https://twitter.com/ICESOntario/status/1192879858940026880) / [journal link](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583) / [pdf](files/CJC_Paper.pdf)}
 
 2. **Bayesian Networks for Data Integration in the Absence of Foreign Keys**.<br/>
     Bohan Zhang, Scott Sanner, Shagun Gupta. _IEEE Transactions on Knowledge and Data Engineering_, 2019. {[journal link](https://ieeexplore.ieee.org/document/8827945) / [pdf](files/Heterogeneous_Data_Fusion_Using_Bayesian_Networks.pdf)}  
