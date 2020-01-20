@@ -42,7 +42,7 @@ Previous experiences...
     Shagun Gupta, Scott Sanner, Dennis Ko. Poster at _EMHSeed SEEDing Innovation Event_, June 2019 and the _UofT Engineering Health Day_, October 2018.
 
 7. **A Pharmacological Approach to Dissecting the Neuromodulation of Locomotary Circuits in C. elegans**.<br/>
-    Shagun Gupta. HBSc Molecular Genetics Thesis, April 2016. {[paper](files/Gupta_Shagun_201604_MGY_thesis.pdf)}    
+    Shagun Gupta. HBSc Molecular Genetics Thesis, April 2016. {[paper](files/Gupta_Shagun_201604_MGY480_thesis.pdf)}    
 
 
 ## Projects
