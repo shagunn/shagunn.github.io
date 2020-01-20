@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am an applied machine learning researcher interested in novel approaches for improving healthcare delivery.
 
-I recently graduated with a M.A.Sc. from University of Toronto, advised by [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca), with a focus on ML for Health. Previously I completed by H.B.Sc. in molecular genetics and<br/>neuroscience from UofT.
+I recently graduated with a M.A.Sc. Engineering from University of Toronto, where I was advised by [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca). Previously I completed by H.B.Sc. in molecular genetics and<br/>neuroscience from UofT.
 
 
 ## Research
@@ -16,8 +16,9 @@ Previous experiences...
 * [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca) under [Dr. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)
 * Research assistant @ [ICES](https://www.ices.on.ca) under [Dr. Dennis Ko](https://sunnybrook.ca/research/team/member.asp?t=11&m=99&page=178)
 * [Population health analytics](http://pophealthanalytics.com) under [Dr. Laura Rosella](https://ihpme.utoronto.ca/faculty/laura-c-rosella/)
-* Project Consultant & Manager for the [Robotics Program](https://www.hollandbloorview.ca/services/programs-services/robotics) @ Holland Bloorview Kids Rehab Hospital
+* Project Lead for the [Robotics Program](https://www.hollandbloorview.ca/services/programs-services/robotics) @ Holland Bloorview Kids Rehab Hospital
 * Research assistant in the [Fraser Lab (Genomics)](https://fraserlab.squarespace.com) supervised by [Dr. Andy Fraser](http://www.moleculargenetics.utoronto.ca/faculty/2014/10/1/andrew-fraser)
+<!-- * Instructor @ the [Medicine Summer Program](https://ysp.utoronto.ca/med/) by UofT Faculty of Medicine -->
 
 
 ## Publications & Talks
@@ -29,7 +30,7 @@ Previous experiences...
     Bohan Zhang, Scott Sanner, Shagun Gupta. _IEEE Transactions on Knowledge and Data Engineering_, 2019. {[journal paper](https://ieeexplore.ieee.org/document/8827945)}
 
 3. **Classification for Healthcare Using Linked and Unlinked Data Sources**.<br/>
-    Shagun Gupta. _M.A.Sc. Thesis_, 2019. {[paper](https://tspace.library.utoronto.ca/handle/1807/98054)}
+    Shagun Gupta. _M.A.Sc. Thesis_, 2019. {[paper](https://tspace.library.utoronto.ca/bitstream/1807/98054/2/Gupta_Shagun_%20_201911_MAS_thesis.pdf)}
 
 4. **Data Integration for Population Health Risk Prediction Tasks**. <br/>
     Shagun Gupta, Laura Rosella, Scott Sanner. [In submission].
