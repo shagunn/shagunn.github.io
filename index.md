@@ -13,18 +13,18 @@ I recently graduated with a M.A.Sc. Engineering from University of Toronto, wher
 
 ## Research
 Previous experiences...
-* [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca) under [Dr. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)
-* Research assistant @ [ICES](https://www.ices.on.ca) under [Dr. Dennis Ko](https://sunnybrook.ca/research/team/member.asp?t=11&m=99&page=178)
-* [Population health analytics](http://pophealthanalytics.com) under [Dr. Laura Rosella](https://ihpme.utoronto.ca/faculty/laura-c-rosella/)
-* Project Lead for the [Robotics Program](https://www.hollandbloorview.ca/services/programs-services/robotics) @ Holland Bloorview Kids Rehab Hospital
-* Research assistant in the [Fraser Lab (Genomics)](https://fraserlab.squarespace.com) supervised by [Dr. Andy Fraser](http://www.moleculargenetics.utoronto.ca/faculty/2014/10/1/andrew-fraser)
+* [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca) under [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)
+* Research assistant @ [ICES](https://www.ices.on.ca) under [Dennis Ko, MD](https://sunnybrook.ca/research/team/member.asp?t=11&m=99&page=178)
+* [Population health analytics](http://pophealthanalytics.com) under [Laura Rosella](https://ihpme.utoronto.ca/faculty/laura-c-rosella/)
+* Project Lead for the [Robotics Program](https://www.hollandbloorview.ca/services/programs-services/robotics) @ Holland Bloorview Kids Hospital {[CBC News](https://www.cbc.ca/news/canada/toronto/holland-bloorview-rehabilitation-robotics-1.3848586)}
+* Research assistant in the [Fraser Lab (Genomics)](https://fraserlab.squarespace.com) under [Andy Fraser](http://www.moleculargenetics.utoronto.ca/faculty/2014/10/1/andrew-fraser)
 <!-- * Instructor @ the [Medicine Summer Program](https://ysp.utoronto.ca/med/) by UofT Faculty of Medicine -->
 
 
 ## Publications & Talks
 
 1. **Evaluation of Machine Learning Algorithms for Predicting Readmission after Acute Myocardial Infarction Using Routinely Collected Clinical Data**.<br/>
-    Shagun Gupta, Dennis Ko, Paymon Azizi et al. _Canadian Journal of Cardiology_, 2019. {[journal paper](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583)}
+    Shagun Gupta, Dennis Ko, Paymon Azizi et al. _Canadian Journal of Cardiology_, 2019.{[ICES press](https://twitter.com/ICESOntario/status/1192879858940026880) & [journal paper](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583)}
 
 2. **Bayesian Networks for Data Integration in the Absence of Foreign Keys**.<br/>
     Bohan Zhang, Scott Sanner, Shagun Gupta. _IEEE Transactions on Knowledge and Data Engineering_, 2019. {[journal paper](https://ieeexplore.ieee.org/document/8827945)}
@@ -59,11 +59,11 @@ Previous experiences...
 <!-- <br style="line-height: 30px" /> -->
 * **Exploring A Data-Driven Method to Validate Rhetorical Structure Theory** [NLP] <br/>
     Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing in NLP research. In this project, we investigated the validity of the RST framework using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model. <br/>
-    {[paper](files/NLP_Project.pdf) & [GitHub](https://github.com/csc2511project/DiscourseProject)}
+    {[paper](files/NLP_Project.pdf) & [GitHub](https://github.com/shagunn/DiscourseProject)}
 
 * **Predicting ICU Readmission using Deep Learning** [ML for Health] <br/>
     Unplanned readmissions to intensive care units (ICU) are costly and result in poor patient outcomes. The aim of this study was to develop a tool for predicting patients at high risk for ICU readmission using clinical data. In particular, this study compares deep neural networks (DNNs) against the baseline measure, Stability and Workload Index for Transfers (SWIFT) on different readmission time frames. <br/>
-    {[paper]() & [GitHub]()}
+    {[paper]()}
 
 * **Latent variable modelling for readmission prediction** [PGMs] <br/>
     This project examined whether latent variable modelling could help discover low dimensional latent spaces to improve readmission classification. <br/>
