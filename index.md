@@ -55,7 +55,7 @@ Previous experiences...
     Implemented a CNN model to detect various diseases in chest x- rays; used attention maps to highlight predictive areas. <br/>
 
 <!-- * **Cellular imaging project** [Computer vision] <br/>
-    Applied CNN + RNN deep models to predict clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III). <br/> -->
+
 <!-- <br style="line-height: 30px" /> -->
 * **Exploring A Data-Driven Method to Validate Rhetorical Structure Theory** [NLP] <br/>
     Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing in NLP research. In this project, we investigated the validity of the RST framework using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model. <br/>
@@ -68,10 +68,11 @@ Previous experiences...
 * **Latent variable modelling for readmission prediction** [PGMs] <br/>
     This project examined whether latent variable modelling could help discover low dimensional latent spaces to improve readmission classification. <br/>
     {[GitHub]()}
-
-* **BayesNet Toolbox** [PGMs] <br/>
+<!--
+**BayesNet Toolbox** [PGMs] <br/>
     Implemented algorithms for bayesian network inference.  <br/>
     {[GitHub]()}
+-->
     <br/>
     <br/>
 
