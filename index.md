@@ -15,7 +15,7 @@ I recently graduated with a M.A.Sc. Engineering from University of Toronto, wher
 Previous experiences...
 * [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca) under [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)
 * Research assistant @ [ICES](https://www.ices.on.ca) under [Dennis Ko, MD](https://sunnybrook.ca/research/team/member.asp?t=11&m=99&page=178)
-* [Population health analytics](http://pophealthanalytics.com) under [Laura Rosella](https://ihpme.utoronto.ca/faculty/laura-c-rosella/)
+* [Population Health Analytics Lab](http://pophealthanalytics.com) under [Laura Rosella](https://ihpme.utoronto.ca/faculty/laura-c-rosella/)
 * Project Lead for the [Robotics Program](https://www.hollandbloorview.ca/services/programs-services/robotics) @ Holland Bloorview Kids Hospital {[CBC News](https://www.cbc.ca/news/canada/toronto/holland-bloorview-rehabilitation-robotics-1.3848586)}
 * Research assistant in the [Fraser Lab (Genomics)](https://fraserlab.squarespace.com) under [Andy Fraser](http://www.moleculargenetics.utoronto.ca/faculty/2014/10/1/andrew-fraser)
 <!-- * Instructor @ the [Medicine Summer Program](https://ysp.utoronto.ca/med/) by UofT Faculty of Medicine -->
