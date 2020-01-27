@@ -54,8 +54,7 @@ Previous experiences...
 * **Automated Chest X-Ray Interpretation using CNNs** [Computer vision] <br/>
     Implemented a CNN model to detect various diseases in chest x- rays; used attention maps to highlight predictive areas. <br/>
 
-<!-- * **Cellular imaging project** [Computer vision] <br/>
-
+<!-- * **Cellular Imaging Project** [Computer vision] <br/>
 <!-- <br style="line-height: 30px" /> -->
 * **Exploring A Data-Driven Method to Validate Rhetorical Structure Theory** [NLP] <br/>
     Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing in NLP research. In this project, we investigated the validity of the RST framework using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model. <br/>
