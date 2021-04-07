@@ -6,9 +6,11 @@ layout: default
 
 <img class="profile-picture" src="files/headshot.jpg">
 
-Hi! I am an applied machine learning researcher interested in novel approaches for improving healthcare delivery.
+Hi! I am an applied machine learning researcher interested in solving complex problems in healthcare, computational biology and systems optimization.
 
-I recently graduated with a M.A.Sc. Engineering from University of Toronto, where I was advised by [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca). Previously I completed by H.B.Sc. in molecular genetics and<br/>neuroscience from UofT.
+I am currently working on COVID-19 modelling at [Boston Children's Hospital](https://www.childrenshospital.org/chip) in collaboration with Moderna.
+
+I graduated with a M.A.Sc. Engineering from University of Toronto, where I was advised by [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca). Previously I completed by H.B.Sc. in molecular genetics and<br/>neuroscience from UofT.
 
 
 ## Research
@@ -24,7 +26,7 @@ Previous experiences...
 ## Publications & Talks
 
 1. **Evaluation of Machine Learning Algorithms for Predicting Readmission after Acute Myocardial Infarction Using Routinely Collected Clinical Data**.<br/>
-    Shagun Gupta, Dennis Ko, Paymon Azizi et al. _Canadian Journal of Cardiology_, 2019. {[ICES press](https://twitter.com/ICESOntario/status/1192879858940026880) / [journal link](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583) / [pdf](files/CJC_Paper.pdf)}
+    Shagun Gupta, Dennis Ko, Paymon Azizi et al. _Canadian Journal of Cardiology_, 2019. {[journal link](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583) / [pdf](files/CJC_Paper.pdf)}
 
 2. **Bayesian Networks for Data Integration in the Absence of Foreign Keys**.<br/>
     Bohan Zhang, Scott Sanner, Shagun Gupta. _IEEE Transactions on Knowledge and Data Engineering_, 2019. {[journal link](https://ieeexplore.ieee.org/document/8827945) / [pdf](files/Heterogeneous_Data_Fusion_Using_Bayesian_Networks.pdf)}  
@@ -52,7 +54,7 @@ Previous experiences...
     This project uses deep learning to improve predictions for clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III).
 
 * **Automated Chest X-Ray Interpretation using CNNs** [Computer vision] <br/>
-    Implemented a CNN model to detect various diseases in chest x- rays; used attention maps to highlight predictive areas. <br/>
+    Implemented a CNN model to detect various diseases in chest x- rays; used fusion operators to leverage both frontal and lateral x-rays. <br/>
 
 <!-- * **Cellular Imaging Project** [Computer vision] <br/>
 <!-- <br style="line-height: 30px" /> -->
@@ -66,7 +68,7 @@ Previous experiences...
 
 * **Latent variable modelling for readmission prediction** [PGMs] <br/>
     This project examined whether latent variable modelling could help discover low dimensional latent spaces to improve readmission classification. <br/>
-    {[GitHub]()}
+    <!-- {[GitHub]()} -->
 <!--
 **BayesNet Toolbox** [PGMs] <br/>
     Implemented algorithms for bayesian network inference.  <br/>
