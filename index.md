@@ -10,7 +10,7 @@ Hi! I am an applied machine learning researcher interested in solving complex pr
 
 I am currently working on COVID-19 modelling at [Boston Children's Hospital](https://www.childrenshospital.org/chip) in collaboration with Moderna.
 
-I graduated with a M.A.Sc. Engineering from University of Toronto, where I was advised by [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca). Previously I completed by H.B.Sc. in molecular genetics and<br/>neuroscience from UofT.
+I graduated with a M.A.Sc. Engineering from University of Toronto, where I was advised by [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca). Previously I completed by H.B.Sc. in molecular genetics and neuroscience from UofT.
 
 
 ## Research
