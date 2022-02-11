@@ -64,7 +64,6 @@ Previous experiences...
 
 * **Predicting ICU Readmission using Deep Learning** [ML for Health] <br/>
     Unplanned readmissions to intensive care units (ICU) are costly and result in poor patient outcomes. The aim of this study was to develop a tool for predicting patients at high risk for ICU readmission using clinical data. In particular, this study compares deep neural networks (DNNs) against the baseline measure, Stability and Workload Index for Transfers (SWIFT) on different readmission time frames. <br/>
-    {[pdf](files/csc2431_ICU_DL.pdf)}
 
 * **Latent variable modelling for readmission prediction** [PGMs] <br/>
     This project examined whether latent variable modelling could help discover low dimensional latent spaces to improve readmission classification. <br/>
