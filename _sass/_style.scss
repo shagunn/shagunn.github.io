@@ -10,23 +10,30 @@ html {
     padding: 0;
 }
 body {
+    background-color:#e6f0f8;
+    // background-color:#bac8d3;
+    font-size: 16px;
+    font-weight: 370;
     margin: 0;
-    // font-family: "Inconsolata";
-    font-family: "Open Sans";
     height: 100%;
+    //    font-family: "Open Sans";
+    // font-family: 
+    font-family: Interdisplay, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
 a {
     text-decoration: none;
     color: $accent;
 }
-a:hover {
-    text-decoration: underline;
-}
+// a:hover {
+//     text-decoration: underline;
+//     // color: #bdc8d2;
+// }
 hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    display: none;
+    // border: 0;
+    // height: 0;
+    // border-top: 1px solid rgba(0, 0, 0, 0.1);
+    // border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 /*
@@ -34,18 +41,24 @@ hr {
  */
 
 #author-name {
-    font-size: 30px;
-    color: #272727;
+    font-size: 22px;
+    font-weight: 360;
+    color: #000000;
+    // color: #272727;
+    padding: 5px 0 5px 0;
     display: inline-block;
+    margin-top: 35px;
+    // vertical-align: bottom; // Add this line
 }
 .navbar {
-    padding: 50px 0 50px 0;
+    padding: 40px 0 150px 0;
 }
 .navbar-ul {
     display: inline-block;
     margin: 0;
     padding: 5px 0 5px 0;
     margin-left: 20px;
+    // vertical-align: middle; // Add this line
 }
 .nav-list {
     list-style-type: none;
@@ -76,12 +89,19 @@ hr {
 /* Institute Image */
 
 #ins-logo {
-	margin: auto;
+	// margin: auto 20px;
+    margin: 10px 30px 0 0;
 	display: block;
-	max-height: 100px;
-	text-align: center;
+	max-height: 90px;
+	text-align: right;
+    float: right;
+        border-radius: 50%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
 }
-
+// 
 /* Mobile */
 
 @media (max-width: 800px) {
@@ -126,6 +146,13 @@ hr {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+    #ins-logo {
+        display: block;
+        // text-align: center;
+        margin-left:30%;
+        margin-right:35%;
+    }
+
 }
 
 @import "typography";

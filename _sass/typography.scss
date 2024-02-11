@@ -2,7 +2,8 @@
 
 .content {
     a:hover {
-        text-decoration: underline;
+        text-decoration: underline dotted;
+        text-decoration-thickness: 1px;
     }
     ol {
         counter-reset: list;
@@ -57,4 +58,13 @@
         text-align: center;
         width: 100%;
     }
+    .dotted {
+        text-decoration: underline dotted;
+        text-decoration-thickness: 1px;
+        // border-bottom: 1px dotted;
+        // padding-bottom: 1px;
+        // display: inline-block;
+    }
+
+
 }

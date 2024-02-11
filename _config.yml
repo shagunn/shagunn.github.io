@@ -3,13 +3,13 @@ url: "http://shagungupta.net"
 baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "bits-logo.jpg"
 
 tracking_id: UA-156492622-1
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: " .  "
 
 sass:
     style: compressed

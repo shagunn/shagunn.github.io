@@ -1,13 +1,15 @@
 ---
 layout: default
-is_contact: false
+is_contact: true
 ---
+
 
 * Email: []()
 
 * [Github]()
 
 * [LinkedIn]()
+
 
 <!-- ---
 
